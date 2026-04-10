@@ -13,3 +13,12 @@ Draw Streets:
 - Generate a street by drawing a line.
 - Based on geometry nodes.
 - To use this addon, install 'draw_tool_geonodes_build.zip' as a new addon.
+
+## Impressions
+### Draw Streets
+#### Select
+![Select draw tool](./screenshots/select.jpg)
+#### Draw
+![Draw a curve](./screenshots/draw.jpg)
+#### Result
+![Result](./screenshots/result.jpg)
